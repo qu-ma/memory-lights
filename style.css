@@ -1,0 +1,12 @@
+main {
+    background-image: url(https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1429&q=80);
+}
+
+.img-container {
+    background-color: lightblue;
+    border-radius: 10px;
+    border: 2px solid red;
+    margin: 5px;
+    padding: 20px;
+    box-shadow: 5px;
+}
